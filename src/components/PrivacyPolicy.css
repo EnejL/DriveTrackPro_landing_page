@@ -1,0 +1,153 @@
+/* Privacy Policy Styles */
+.privacy-policy {
+  min-height: 100vh;
+  background: #000;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header */
+.header {
+  padding: 2rem 0;
+  border-bottom: 1px solid #333;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #00ffff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.back-link:hover {
+  color: #8a2be2;
+}
+
+/* Language Toggle */
+.language-toggle {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.flag-button {
+  background: none;
+  border: 2px solid #333;
+  border-radius: 8px;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flag-button:hover {
+  border-color: #00ffff;
+  transform: scale(1.05);
+}
+
+.flag-button.active {
+  border-color: #00ffff;
+  background: rgba(0, 255, 255, 0.1);
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+}
+
+/* Title */
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(45deg, #00ffff, #8a2be2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: center;
+}
+
+.last-updated {
+  text-align: center;
+  color: #999;
+  margin-bottom: 3rem;
+  font-style: italic;
+}
+
+/* Content */
+.content {
+  max-width: 100%;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #00ffff;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid rgba(0, 255, 255, 0.3);
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  color: #8a2be2;
+  margin: 1.5rem 0 0.8rem 0;
+}
+
+p {
+  margin-bottom: 1rem;
+  color: #e0e0e0;
+}
+
+ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  color: #e0e0e0;
+}
+
+li strong {
+  color: #00ffff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+  }
+  
+  .header {
+    padding: 1rem 0;
+  }
+}
