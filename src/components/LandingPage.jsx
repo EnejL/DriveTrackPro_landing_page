@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import appLogo from '../assets/app-logo-white.png';
 import './LandingPage.css';
 
 const LandingPage = () => {
@@ -10,7 +11,7 @@ const LandingPage = () => {
         <div className="hero-content">
           <div className="logo-container">
             <div className="app-logo">
-              <img src="/src/assets/app-logo-white.png" alt="Na Poti App Logo" />
+              <img src={appLogo} alt="Na Poti App Logo" />
             </div>
           </div>
           <h1 className="app-name">Na Poti</h1>
