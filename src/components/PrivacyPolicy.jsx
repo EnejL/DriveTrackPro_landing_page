@@ -18,14 +18,14 @@ const PrivacyPolicy = () => {
         {
           title: '1. Splošne informacije',
           content: [
-            'Aplikacijo "Na Poti" razvija Enej Ličina.',
+            'Aplikacijo "DriveTrack Pro" razvija Enej Ličina.',
             'Za vsa vprašanja o zasebnosti se lahko obrnete na: enej.dev@gmail.com.'
           ]
         },
         {
           title: '2. Namen aplikacije',
           content: [
-            '"Na Poti" omogoča uporabnikom sledenje porabi goriva oziroma električne energije za njihova vozila ter pregled bencinskih servisov v Sloveniji.'
+            '"DriveTrack Pro" omogoča uporabnikom sledenje porabi goriva oziroma električne energije za njihova vozila ter pregled bencinskih servisov v Sloveniji.'
           ]
         },
         {
@@ -91,14 +91,14 @@ const PrivacyPolicy = () => {
         {
           title: '1. General Information',
           content: [
-            'The "Na Poti" application is developed by Enej Ličina.',
+            'The "DriveTrack Pro" application is developed by Enej Ličina.',
             'For all privacy-related questions, you can contact us at: enej.dev@gmail.com.'
           ]
         },
         {
           title: '2. Application Purpose',
           content: [
-            '"Na Poti" enables users to track fuel or electricity consumption for their vehicles and view fuel stations in Slovenia.'
+            '"DriveTrack Pro" enables users to track fuel or electricity consumption for their vehicles and view fuel stations in Slovenia.'
           ]
         },
         {
