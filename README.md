@@ -1,10 +1,10 @@
-# Na Poti - Landing Page
+# DriveTrack Pro - Landing Page
 
-A modern, responsive landing page for the "Na Poti" mobile app built with React and Vite.
+A modern, responsive landing page for the "DriveTrack Pro" mobile app built with React and Vite.
 
 ## Overview
 
-This is a single-page website designed to introduce the Na Poti mobile app, provide download links to the App Store, and host the required Privacy Policy page for app submission.
+This is a single-page website designed to introduce the DriveTrack Pro mobile app, provide download links to the App Store, and host the required Privacy Policy page for app submission.
 
 ## Features
 
@@ -34,7 +34,7 @@ This is a single-page website designed to introduce the Na Poti mobile app, prov
 
 1. Clone the repository or navigate to the project directory:
    ```bash
-   cd NaPoti_landing_page
+   cd DriveTrackPro_landing_page
    ```
 
 2. Install dependencies:
@@ -92,7 +92,7 @@ Update the App Store button href in `LandingPage.jsx` with your actual App Store
 
 ## App Information
 
-**Na Poti** - "Vaša vozila, na dlani!" (Your vehicles, in the palm of your hand!)
+**DriveTrack Pro** - "Vaša vozila, na dlani!" (Your vehicles, in the palm of your hand!)
 
 A comprehensive vehicle expense tracking app that supports:
 - Fuel filling and charging session tracking

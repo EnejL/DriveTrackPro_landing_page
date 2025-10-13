@@ -26,10 +26,6 @@ const LandingPage = () => {
         {
           title: 'Vsi Tipi Vozil',
           description: 'Ne glede na to, ali vozite bencinsko, dizelsko, hibridno ali popolnoma električno vozilo - DriveTrack Pro pokriva vse.'
-        },
-        {
-          title: 'Bencinske Črpalke',
-          description: 'Poiščite bencinske črpalke v bližini vas in preverite cene goriv ter odpiralne čase.'
         }
       ],
       copyright: '© 2025 Enej Licina',
@@ -50,10 +46,6 @@ const LandingPage = () => {
         {
           title: 'All Vehicle Types',
           description: 'Whether you drive a gasoline, diesel, hybrid, or fully electric vehicle - DriveTrack Pro covers everything.'
-        },
-        {
-          title: 'Fuel Stations',
-          description: 'Find fuel stations near you and check fuel prices and opening hours.'
         }
       ],
       copyright: '© 2025 Enej Licina',
