@@ -1,6 +1,6 @@
 {
   "name": "drivetrackpro-landing-page",
-  "homepage": "https://drivetrack-pro.enej.app",
+  "description": "A modern, responsive landing page for the DriveTrack Pro mobile app",
   "private": true,
   "version": "1.0.0",
   "type": "module",
