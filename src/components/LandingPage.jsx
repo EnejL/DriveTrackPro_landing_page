@@ -32,7 +32,7 @@ const LandingPage = () => {
           description: 'Poiščite bencinske črpalke v bližini vas in preverite cene goriv ter odpiralne čase.'
         }
       ],
-      copyright: '© 2025 Enej Licina',
+      copyright: '© 2026 Enej Licina',
       privacyLink: 'Politika zasebnosti'
     },
     en: {
@@ -56,7 +56,7 @@ const LandingPage = () => {
           description: 'Find fuel stations near you and check fuel prices and opening hours.'
         }
       ],
-      copyright: '© 2025 Enej Licina',
+      copyright: '© 2026 Enej Licina',
       privacyLink: 'Privacy Policy'
     }
   };
